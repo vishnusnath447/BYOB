@@ -1,0 +1,18 @@
+{
+    "meetings": [
+        {
+            "title": "Team Sync-Up",
+            "date": "2025-01-05",
+            "time": "10:00 AM",
+            "is_recording": true,
+            "agenda": "Discuss project progress and blockers."
+        },
+        {
+            "title": "Client Presentation",
+            "date": "2025-01-06",
+            "time": "02:00 PM",
+            "is_recording": false,
+            "agenda": "Present Q4 results and proposed strategy."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "tasks": [
+        {"description": "Complete the project report", "status": "pending"},
+        {"description": "Prepare slides for the meeting", "status": "pending"},
+        {"description": "Review the budget for Q4", "status": "completed"}
+    ]
+}
